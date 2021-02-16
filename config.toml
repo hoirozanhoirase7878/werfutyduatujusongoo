@@ -1,0 +1,4 @@
+baseURL = "https://notemusicreet.vercel.app"
+languageCode = "en-us"
+title = "Music Notes Free"
+theme = "hugo-theme-minos"
